@@ -1,0 +1,42 @@
+# OS / editor
+.DS_Store
+.idea/
+*.iml
+
+# Android / Gradle
+.gradle/
+build/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing
+*.jks
+*.keystore
+keystore.properties
+
+# Node / web
+node_modules/
+dist/
+.vite/
+
+# Go
+*.exe
+*.test
+*.out
+vendor/
+
+# Runtime data
+*.db
+*.db-shm
+*.db-wal
+life.db
+data/
+tmp/
+
+# Logs / env
+*.log
+.env
+.env.*
